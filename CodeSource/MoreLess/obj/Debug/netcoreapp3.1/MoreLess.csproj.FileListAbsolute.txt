@@ -1,0 +1,13 @@
+C:\Users\Ninja\source\repos\MoreLess\bin\Debug\netcoreapp3.1\MoreLess.exe
+C:\Users\Ninja\source\repos\MoreLess\bin\Debug\netcoreapp3.1\MoreLess.deps.json
+C:\Users\Ninja\source\repos\MoreLess\bin\Debug\netcoreapp3.1\MoreLess.runtimeconfig.json
+C:\Users\Ninja\source\repos\MoreLess\bin\Debug\netcoreapp3.1\MoreLess.runtimeconfig.dev.json
+C:\Users\Ninja\source\repos\MoreLess\bin\Debug\netcoreapp3.1\MoreLess.dll
+C:\Users\Ninja\source\repos\MoreLess\bin\Debug\netcoreapp3.1\MoreLess.pdb
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.csprojAssemblyReference.cache
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.AssemblyInfoInputs.cache
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.AssemblyInfo.cs
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.csproj.CoreCompileInputs.cache
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.dll
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.pdb
+C:\Users\Ninja\source\repos\MoreLess\obj\Debug\netcoreapp3.1\MoreLess.genruntimeconfig.cache
